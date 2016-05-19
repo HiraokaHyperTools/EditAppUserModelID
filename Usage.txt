@@ -1,0 +1,2 @@
+﻿EditAppUserModelID /get your.lnk
+EditAppUserModelID /set your.lnk ConsoleApplication77
